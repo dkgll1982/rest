@@ -1,1 +1,1 @@
-2222222222222222222222222222222222
+select 1 name,2 age,s sex,4 gender from dual
